@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Unit convertor</string>
+    <string name="lmao_ded">lmao ded</string>
+    <string name="enter_number">Enter Number</string>
+    <string name="miles">Miles</string>
+    <string name="meter">Meter</string>
+    <string name="kilometer">Kilometer</string>
+    <string name="centimeter">Centimeter</string>
+    <string name="textview">TextView</string>
+    <string name="output">Output</string>
+</resources>
